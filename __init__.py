@@ -1,3 +1,3 @@
 def kvadrat(x):
     return x**2
-print(kvadrat(10))
+print(kvadrat(15))
